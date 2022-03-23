@@ -1,5 +1,7 @@
 ### Hi there my name is Jose Antonio 👋
 
+[Checkout my personal web site here](https://joseluria.com/)
+
 - 🚀FullStack Web Development Student
 - 💚💚Platzi Lover
 - 💙💙Team React
